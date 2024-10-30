@@ -1,4 +1,4 @@
-# *OOP põhimõtted ja põhimõisted*
+# *OOP põhimõtted ja põhimõisted - ITA24(23)*
 
 *Tartu Rakenduslik Kolledž*
 
